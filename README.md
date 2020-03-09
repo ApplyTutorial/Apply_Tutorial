@@ -1,1 +1,1 @@
-# Apply Tutorial 美国研究生申请教程
+# Apply Tutorial 美国研究生项目申请教程
