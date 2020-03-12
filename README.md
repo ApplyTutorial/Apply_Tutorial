@@ -1,6 +1,6 @@
 # Apply Tutorial 美国研究生项目申请教程
 
-## 缘起 ##
+## Background ##
 在结束了2020 Fall 申请之后。中介作为目的在于
 
 > 降低消息流通成本（Information）
@@ -37,9 +37,9 @@ Apply Tutorial想传达的，是一种思考方式。
 但是我们想做的，也是我们唯一能做的，就是将适合的Information传达给合适的读者。
 
 
-## 订阅我们 ##
+## Subscribe ##
 
-使用您的 **Edu 邮箱** 发送以下信息至 ApplyTutorial@Gmail.com
+使用您的 **Edu 邮箱** 发送以下信息至 ApplyTutorial@Gmail.com 以订阅我们
 
 - **您的姓氏**   如：赵同学
 - **本科学校+专业**   如：清华大学，计算机系
@@ -51,7 +51,7 @@ Apply Tutorial想传达的，是一种思考方式。
 - **订阅项目 Wiki 内容更新**   如：CMU MSCS 项目综述
 
 
-## 贡献者 ##
+## Contribution ##
 这是一个由两个程序员主导的开源申请教程 @Fortune Don @Alex Li 
 
 :thumbsup:如果你赞赏和认同我们的价值观，欢迎您加入我们(applytutorial@gmail.com)，我们正在招募：
