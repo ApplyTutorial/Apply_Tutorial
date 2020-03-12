@@ -17,8 +17,9 @@
 www.ApplyTutorial.com
 
 ## Apply Tutorial 特征 ##
-- 确定，简洁，逻辑 没有妖艳的内容。
-- 
+- Detail & Explaination - 确定 简洁 没有妖艳的内容。
+- Logic & Critical Thinking - 传递独立思考的方法，拒绝翻炒焦虑。 
+- Networking - 帮助申请者更快找到订阅项目的学长、学姐圈子。
 
 ## 使命 ##
 笔者作为一个小程序员，自然是期望生活中的件件事务，都是逻辑、确定和简洁的。
@@ -44,10 +45,11 @@ Apply Tutorial想传达的，是一种思考方式。
 - **订阅项目线上视频研讨会链接**  如：2020 Fall CMU MSCS 申请分享会
 - **订阅项目 Wiki 内容更新**   如：CMU MSCS 项目综述
 
-## 贡献者 ##
-这是一个由三个程序员主导的开源申请教程 @Fortune Don @Alex Li 两位小伙伴为本站做出贡献。
 
-:thumbsup:如果你赞赏和认同我们的价值观，欢迎您加入[我们](applytutorial@gmail.com)，我们正在招募：
+## 贡献者 ##
+这是一个由两个程序员主导的开源申请教程 @Fortune Don @Alex Li 
+
+:thumbsup:如果你赞赏和认同我们的价值观，欢迎您加入我们(applytutorial@gmail.com)，我们正在招募：
 
 - 申请经验分享者（视频研讨会）
 - 申请经验分享者（项目综述）
