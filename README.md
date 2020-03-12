@@ -18,12 +18,12 @@ www.ApplyTutorial.com
 
 
 ## Feature ##
-- Detail & Explaination - 确定 简洁 没有妖艳的内容。
-- Logic & Critical Thinking - 传递独立思考的方法，拒绝翻炒焦虑。 
-- Networking - 帮助申请者更快找到订阅项目的学长、学姐圈子。
+- **Detail & Explaination**  -  确定、简洁、没有妖艳的内容。
+- **Logic & Critical Thinking**  -  传递独立思考的方法，拒绝翻炒焦虑。 
+- **Networking**  -  帮助申请者更快找到订阅项目的学长、学姐圈子。
 
 
-## Admission ##
+## Mission ##
 笔者作为一个小程序员，自然是期望生活中的件件事务，都是逻辑、确定和简洁的。
 当真真假假的信息涌入耳郭，申请的焦虑被反复的翻炒。我想能不能有个数学公式，去高屋建瓴留学的。
 
