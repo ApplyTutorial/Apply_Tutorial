@@ -24,16 +24,16 @@ Apply Tutorial想传达的，是一种思考方式。
 
 ## 订阅我们 ##
 
-使用您的 .edu 邮箱发送以下信息至 ApplyTutorial@Gmail.com
-
+使用**您的.edu 邮箱**发送以下信息至 ApplyTutorial@Gmail.com
+```
 - 您的姓氏 如：赵同学
 - 本科学校+专业 如：清华大学，计算机系
 - 订阅的项目名称 如：CMU, MSCS
-
+```
 您将收到如下订阅内容
-
+```
 - 订阅项目线上视频研讨会链接
 - 订阅项目 Wiki 内容更新
-
+```
 ## 贡献者 ##
 “聚是一团火，散作满天星”，感谢 @Fortune Don @Alex Li 两位小伙伴为本站做出贡献。我们欢迎任何志同道合的小伙伴加入我们 applytutorial@gmail.com。
