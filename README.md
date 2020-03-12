@@ -41,7 +41,7 @@ www.ApplyTutorial.com
 ## Feature ##
 - **Detail & Explaination**  -  确定、简洁、没有妖艳的内容。
 - **Logic & Critical Thinking**  -  传递独立思考的方法，拒绝翻炒焦虑。 
-- **Networking**  -  帮助申请者更快找到订阅项目的学长、学姐圈子。
+- **Networking**  -  帮助申请者更快找到订阅项目的学长、学姐圈子**而非大佬单独指导**。
 
 
 ## Subscribe ##
