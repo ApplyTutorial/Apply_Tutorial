@@ -13,10 +13,10 @@
 ```
 依循简单的 线性指令 ，摒弃繁杂的信息鉴别和管控焦虑，便能够完成留学申请。
 ```
-于是，我向几位朋友表达了这个想法，并获得了他们的支持，所以Apply Tutorial应运而生。
+于是，我向几位朋友表达了这个想法，并获得了他们的支持，开始构建 Apply Tutorial 这个项目。
 
 ## How ##
-当真真假假的信息涌入耳郭，申请的焦虑被反复的翻炒。我想能不能有个数学公式，去高屋建瓴描述申请的。如果有，我想它应该是这样的：
+能不能有个数学公式，去高屋建瓴描述申请的机理。如果有，我想它应该是这样的：
 
 
 ```
@@ -30,8 +30,8 @@ Apply Tutorial 想做的
 - 是 **向合适的人传递合适的信息**，增加公式中的 Information 以提高录取的结果。
 - 是 **帮助申请者 Networking** ，获得主动权以降低公式中的 Risk、获得更好录取结果。
 
-的确，我们很难用一个Apply Tutorial来勾勒申请过程的万里江山，无论怎么去阐述它，都有一种“年少不知愁滋味，为赋新词强说愁”的苦涩。
-但是我们想传达的，是**申请留学中过程中的一种思考方式**。如同智者在回答问题的时候并不会直接做出选择，而是给出一个思考和判断的标准。
+当然，我们很难用一个 Apply Tutorial 来勾勒申请过程的万里江山，无论怎么去阐述它，都有一种 “年少不知愁滋味，为赋新词强说愁” 的苦涩。
+但是我们想传达的，是**申请留学中过程中的一种思考方式**。如同智者在回答问题的时候往往不会直接做出选择，而是给出一个思考和判断的标准。
 
 
 ## Website ##
@@ -57,6 +57,17 @@ www.ApplyTutorial.com
 订阅项目线上视频研讨会链接  如：2020 Fall CMU MSCS 申请分享会
 订阅项目 Wiki 内容更新      如：CMU MSCS 项目综述
 ```
+## Content ##
+0. 
+1. Prepare your mind
+2. Design your application strategy
+3. Display yourself
+4. Research & Publication
+5. Standard Score
+6. Intern
+7. Networking & Recommendation
+8. 
+9. Summery
 
 ## Contribution ##
 这是一个由两个程序员主导的开源申请教程 @Fortune Don @Alex Li 
