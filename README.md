@@ -58,7 +58,7 @@ www.ApplyTutorial.com
 订阅项目 Wiki 内容更新      如：CMU MSCS 项目综述
 ```
 ## Content ##
-0. 
+0. Basic Instructions
 1. Prepare your mind
 2. Design your application strategy
 3. Display yourself
@@ -66,7 +66,7 @@ www.ApplyTutorial.com
 5. Standard Score
 6. Intern
 7. Networking & Recommendation
-8. 
+8. Flips
 9. Summery
 
 ## Contribution ##
