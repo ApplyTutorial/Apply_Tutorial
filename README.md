@@ -58,8 +58,8 @@ www.ApplyTutorial.com
 订阅项目 Wiki 内容更新      如：CMU MSCS 项目综述
 ```
 ## Content ##
-0. [Basic Instructions](https://github.com/ApplyTutorial/Basic-Instructions)
-1. Prepare your mind
+[0. Basic Instructions](https://github.com/ApplyTutorial/Basic-Instructions)
+[1. Prepare your mind](https://github.com/ApplyTutorial/Prepare-your-mindset)
 2. Design your application strategy
 3. Display yourself
 4. Research & Publication
