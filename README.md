@@ -70,6 +70,7 @@ www.ApplyTutorial.com
 ```
 订阅项目线上视频研讨会链接  如：2020 Fall CMU MSCS 申请分享会
 订阅项目 Wiki 内容更新      如：CMU MSCS 项目综述
+订阅项目相关专业的暑研信息  如：CMU 机器人学院 暑研机会与面试技巧
 ```
 
 ## Mission ##
