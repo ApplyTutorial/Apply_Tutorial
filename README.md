@@ -71,7 +71,7 @@ www.ApplyTutorial.com
 
 ## Mission ##
 - 开源项目 不大拉群 不打广告 不恰饭
-- 接受赞赏（微信）和捐助 维护日常开销
+- 接受赞赏（微信公众号 ApplyTutorial）和捐助 维护日常开销
 - 公布季度财报 不黑钱
 
 ## Contribution ##
