@@ -43,6 +43,20 @@ www.ApplyTutorial.com
 - **Logic & Critical Thinking**  -  传递独立思考的方法，拒绝翻炒焦虑。 
 - **Networking**  -  帮助申请者更快找到订阅项目的学长、学姐圈子**而非大佬单独指导**。
 
+## Content ##
+0. [Basic Instructions](https://github.com/ApplyTutorial/Basic-Instructions)
+1. [Prepare your mindset](https://github.com/ApplyTutorial/Prepare-your-mindset)
+2. Design your application strategy
+3. Display yourself
+4. Research & Publication
+5. Standard Score
+6. Intern
+7. Networking & Recommendation
+8. Flips
+9. Summery
+
+## Curriculum ##
+0. 转码专题--如何转专业申请计算机
 
 ## Subscribe ##
 
@@ -57,17 +71,6 @@ www.ApplyTutorial.com
 订阅项目线上视频研讨会链接  如：2020 Fall CMU MSCS 申请分享会
 订阅项目 Wiki 内容更新      如：CMU MSCS 项目综述
 ```
-## Content ##
-0. [Basic Instructions](https://github.com/ApplyTutorial/Basic-Instructions)
-1. [Prepare your mindset](https://github.com/ApplyTutorial/Prepare-your-mindset)
-2. Design your application strategy
-3. Display yourself
-4. Research & Publication
-5. Standard Score
-6. Intern
-7. Networking & Recommendation
-8. Flips
-9. Summery
 
 ## Mission ##
 - 开源项目 不大拉群 不打广告 不恰饭
