@@ -75,7 +75,7 @@ www.ApplyTutorial.com
 - 公布季度财报 不黑钱
 
 ## Contribution ##
-这是一个由两个程序员主导的开源申请教程 @Fortune Don @Alex Li 
+这是一个由两个程序员主导的开源申请教程 @Fortune Don @Alex Liu 
 
 :thumbsup:如果你赞赏和认同我们的价值观，欢迎您加入我们(applytutorial@gmail.com)，我们正在招募：
 
