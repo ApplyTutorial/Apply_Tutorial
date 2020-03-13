@@ -46,7 +46,7 @@ www.ApplyTutorial.com
 ## Content ##
 0. [Basic Instructions](https://github.com/ApplyTutorial/Basic-Instructions)
 1. [Prepare your mindset](https://github.com/ApplyTutorial/Prepare-your-mindset)
-2. Design your application strategy
+2. [Design your application strategy](https://github.com/ApplyTutorial/Design-your-application-strategy)
 3. Display yourself
 4. Research & Publication
 5. Standard Score
