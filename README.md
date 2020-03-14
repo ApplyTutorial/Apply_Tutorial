@@ -49,7 +49,7 @@ www.ApplyTutorial.com
 2. [Design your application strategy](https://github.com/ApplyTutorial/Design-your-application-strategy)
 3. [Display yourself](https://github.com/ApplyTutorial/Display-yourself)
 4. Research & Publication
-5. Standard Score
+5. [Standard Score](https://github.com/ApplyTutorial/Standard-Score)
 6. Intern
 7. Networking & Recommendation
 8. Flips
