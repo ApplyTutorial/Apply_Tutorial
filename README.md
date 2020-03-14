@@ -38,6 +38,7 @@ Apply Tutorial 想做的
 www.ApplyTutorial.com
 
 
+
 ## Feature ##
 - **Detail & Explaination**  -  确定、简洁、没有妖艳的内容。
 - **Logic & Critical Thinking**  -  传递独立思考的方法，拒绝翻炒焦虑。 
@@ -51,9 +52,10 @@ www.ApplyTutorial.com
 4. [Research & Publication](https://github.com/ApplyTutorial/Research-Publication)
 5. [Standard Score](https://github.com/ApplyTutorial/Standard-Score)
 6. [Intern](https://github.com/ApplyTutorial/Intern)
-7. Networking & Recommendation
+7. [Networking & Recommendation](https://github.com/ApplyTutorial/Networking-Recommendation)
 8. Flips
 9. Summery
+10. [项目库](www.baidu.com)
 
 ## Curriculum ##
 0. 转码专题--如何转专业申请计算机
