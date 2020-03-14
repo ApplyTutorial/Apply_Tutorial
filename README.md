@@ -48,9 +48,9 @@ www.ApplyTutorial.com
 1. [Prepare your mindset](https://github.com/ApplyTutorial/Prepare-your-mindset)
 2. [Design your application strategy](https://github.com/ApplyTutorial/Design-your-application-strategy)
 3. [Display yourself](https://github.com/ApplyTutorial/Display-yourself)
-4. Research & Publication
+4. [Research & Publication](https://github.com/ApplyTutorial/Research-Publication)
 5. [Standard Score](https://github.com/ApplyTutorial/Standard-Score)
-6. Intern
+6. [Intern](https://github.com/ApplyTutorial/Intern)
 7. Networking & Recommendation
 8. Flips
 9. Summery
@@ -76,7 +76,6 @@ www.ApplyTutorial.com
 ## Mission ##
 - 开源项目 不大拉群 不打广告 不恰饭
 - 接受赞赏（微信公众号 ApplyTutorial）和捐助 维护日常开销
-- 公布季度财报 不黑钱
 
 ## Contribution ##
 这是一个由两个程序员主导的开源申请教程 @Fortune Don @Alex Liu 
