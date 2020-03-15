@@ -22,9 +22,12 @@
 - 接受赞赏（微信公众号 ApplyTutorial）和捐助用于运维开销
 
 ## Feature ##
-- **Detail & Explaination**  -  通过开源的 GitHub 仓库，系统、确定和简洁的介绍留学的申请过程。不骚，不妖。
-- **Logic & Critical Thinking**  -  通过邮件订阅个性化的内容，包括项目信息、申请策略等内容，传递独立思考的方法，拒绝翻炒焦虑。 
-- **Networking**  -  通过视频分享会、项目分享会，帮助申请者更快找到目标项目申请前辈、同学的**圈子**，而非苦苦等待大佬的指导。
+- **Detail & Explaination**  
+   - 通过开源的 GitHub 仓库，系统、确定和简洁的介绍留学的申请过程。不骚，不妖。
+- **Logic & Critical Thinking**  
+   -  通过邮件订阅个性化的内容，包括项目信息、申请策略等内容，传递独立思考的方法，拒绝翻炒焦虑。 
+- **Networking**  
+   -  通过视频分享会、项目分享会，帮助申请者更快找到目标项目申请前辈、同学的**圈子**，而非苦苦等待大佬的指导。
 
 ## Website ##
 www.ApplyTutorial.com
