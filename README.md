@@ -42,7 +42,7 @@ www.ApplyTutorial.com
 5. [Standard Score](https://github.com/ApplyTutorial/Standard-Score)
 6. [Intern](https://github.com/ApplyTutorial/Intern)
 7. [Networking & Recommendation](https://github.com/ApplyTutorial/Networking-Recommendation)
-8. Flips
+8. [Flips](https://github.com/ApplyTutorial/Flips)
 9. [Summary](https://github.com/ApplyTutorial/Summary)
 10. [项目库](www.baidu.com)
 
