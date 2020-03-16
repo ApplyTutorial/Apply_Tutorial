@@ -43,7 +43,7 @@ www.ApplyTutorial.com
 6. [Intern](https://github.com/ApplyTutorial/Intern)
 7. [Networking & Recommendation](https://github.com/ApplyTutorial/Networking-Recommendation)
 8. Flips
-9. Summery
+9. [Summary](https://github.com/ApplyTutorial/Summary)
 10. [项目库](www.baidu.com)
 
 ## Curriculum ##
