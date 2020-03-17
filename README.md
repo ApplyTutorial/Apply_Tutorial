@@ -47,8 +47,8 @@ www.ApplyTutorial.com
 10. [项目库](www.baidu.com)
 
 ## Curriculum ##
-0. 转码专题--如何转专业申请计算机
-
+0. 转码专题 -- 如何转专业申请计算机
+1. FLAG 就业 -- 如何选择硕士项目
 ## Subscribe ##
 
 使用您的 **Edu 邮箱** 发送以下信息至 ApplyTutorial@Gmail.com 以订阅我们
